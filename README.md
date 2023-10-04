@@ -1,5 +1,8 @@
 ![Header](./github-header-image-2.png)
 
+## 📜 Certificate
+![Badge](./badge.png)
+
 <!--
 **Ruijian-Zha/Ruijian-Zha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
