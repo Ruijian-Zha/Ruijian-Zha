@@ -1,6 +1,6 @@
 ![Header](./github-header-image-2.png)
 
-## 📜 Certificate
+## 🎓 Certificate
 <img src="./badge.png" width="150" alt="Badge" />
 
 <!--
