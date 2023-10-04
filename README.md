@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image (1).png)
 
 <!--
 **Ruijian-Zha/Ruijian-Zha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
