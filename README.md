@@ -1,7 +1,7 @@
 ![Header](./github-header-image-2.png)
 
 ## 🎓 Certificate
-<img src="./badge.png" width="150" alt="Badge" />
+<img src="./badge.png" width="150" alt="Badge" /> [![An image of @ruijianzha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruijianzha)](https://holopin.io/@ruijianzha)
 
 <!--
 **Ruijian-Zha/Ruijian-Zha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
